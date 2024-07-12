@@ -1,3 +1,2 @@
-# my-new-repository
-This is my new repository
+# Quick Guide to Git
 My Name is Muhammad Mubeen
